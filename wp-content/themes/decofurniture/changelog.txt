@@ -1,0 +1,10 @@
+1.2 - 30/6/2023
+Updated:
+	- Import Elementor settings
+	- WooCommerce outdate template
+
+1.1 - 19/9/2022
+Update:
+	- Slider revolution 6.5.31
+	- Register popup
+	- Live search popup + responsive
